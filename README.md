@@ -1,88 +1,112 @@
-## Hello! I'm Charles Cabatian!  
-  
+<h1 align="center">Charles Cabatian</h1>
 
-<a href="https://github.com/projcjdevs" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/charles-cabatian-9055aa34b" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/charles.cabatian.1" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/chrlsjhnc" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
+<p align="center">
+  <b>Notion Campus Leader • BS Computer Science (Machine Learning)</b><br>
+  National University Manila
+</p>
 
+<p align="center">
+  Interested in building practical AI systems —  
+  especially LLM-powered agents integrated into real-world workflows.
+</p>
 
+<hr/>
 
-### Glad to see you here!  
-I am a Notion Campus Leader at NU-Manila on a journey to become a full-stack AI Engineer. While I love organizing data, my true drive lies in architecting the future of work. I am dedicated to learning the depths of Machine Learning to build solutions that address real-world friction points. My philosophy is centered on "Human-AI Harmony"—creating complex, agentic workflows where software doesn't just take commands, but actively collaborates with humans to solve problems. I am building the technical foundation to turn these high-level concepts into deployed, business-ready reality.  
-  
+<div align="center">
 
-<br/>  
+## Current Focus
 
+<table>
+<thead>
+<tr>
+<th align="center">Area</th>
+<th align="center">What I'm Exploring</th>
+</tr>
+</thead>
+<tbody>
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<tr>
+<td align="center"><b>AI Agents</b></td>
+<td>LLM-powered agents • Workflow automation • Tool-augmented reasoning • Multi-step pipelines</td>
+</tr>
 
-- 🔭 My current goal is to implement LLMs and Agents to real-world problems, providing solutions through AI Engineering!  
-  
+<tr>
+<td align="center"><b>Automation</b></td>
+<td>n8n orchestration • OpenClaw experimentation • Google ADK • API integrations</td>
+</tr>
 
-- 🌱 I’m currently learning n8n, OpenClaw, and Google ADK.  
+<tr>
+<td align="center"><b>Machine Learning</b></td>
+<td>Anomaly detection • Statistical modeling • Feature engineering • Model evaluation</td>
+</tr>
 
+<tr>
+<td align="center"><b>Systems</b></td>
+<td>FastAPI/Flask backends • Dockerized services • PostgreSQL/Supabase • Deployment workflows</td>
+</tr>
 
-</td><td valign="top" width="50%">
+</tbody>
+</table>
 
+</div>
 
+<hr/>
 
-</td></tr></table>  
+<div align="center">
 
-<br/>  
+## Selected Projects & Competitions
 
+</div>
 
-## Languages and Tools  
+- **Ghost Load Mapper** – ML-based electricity anomaly detection (Isolation Forest + spatial clustering)  
+  → Meralco IDOL Hackathon 2025 – Top Finalist  
 
+- **AlertoVolt** – IoT voltage risk detection system (Arduino + Flask + React)  
+  → Arduino Day PH 2025 – Top 8 Finalist  
 
-### Specialized Tools  
-<div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>  
+- **NotionHub (WIP)** – Agentic productivity automation using LLaMA models via Groq  
 
-<br/>  
+- **Meta Hacker Cup 2025** – Competitor  
+- **Huawei ICT Academy 2025 (Computing Track)** – Team Competitor  
 
+<hr/>
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=projcjdevs&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+## AI & Systems Stack
 
-</td><td valign="top" width="50%">
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+</p>
 
+</div>
 
+**Core Tools & Platforms**  
+Python • PyTorch • Scikit-Learn • FastAPI • Flask  
+PostgreSQL • Supabase • MySQL • Docker  
+n8n • OpenClaw • Google ADK • REST APIs  
 
-</td></tr></table>  
+<hr/>
 
-<br/>  
+<div align="center">
 
-  
+## Connect With Me
 
-<br/>  
+<a href="https://www.linkedin.com/in/charles-cabatian-9055aa34b/">LinkedIn</a> •
+<a href="mailto:cjcabatian5@gmail.com">Email</a> •
+<a href="https://www.facebook.com/charles.cabatian.1">Facebook</a> •
+<a href="https://www.instagram.com/chrlsjhnc">Instagram</a>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=projcjdevs&&style=flat-square)  
-  
+</div>
 
-<br/>  
+<hr/>
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
+<p align="center">
+Building systems that combine software engineering + intelligent automation.
+</p>
