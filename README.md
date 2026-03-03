@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-  Computer Science student working toward a career in AI engineering. My focus is on building practical systems — LLM-powered agents, automation pipelines, and structured orchestration. I am early in this path and still developing, but the work is real and the direction is clear.
+  Computer Science student working toward a career in AI engineering. My focus is on building practical systems — LLM-powered agents, automation pipelines, and structured orchestration.
 </p>
 
 <br/>
