@@ -1,48 +1,66 @@
 <h1 align="center">Charles Cabatian</h1>
 
 <p align="center">
-  <b>Notion Campus Leader • BS Computer Science (Machine Learning)</b><br>
+  <b>Notion Campus Leader</b> • BS Computer Science (Machine Learning)<br>
   National University Manila
 </p>
 
 <p align="center">
-  Interested in building practical AI systems —  
-  especially LLM-powered agents integrated into real-world workflows.
+  Focused on building structured, production-oriented AI systems —
+  particularly LLM-powered agents integrated into real-world workflows.
 </p>
 
 <hr/>
 
 <div align="center">
 
-## Current Focus
+## Professional Direction
+
+</div>
+
+I am currently exploring how **AI agents and LLM systems** can be embedded into practical pipelines —  
+not just as demos, but as usable automation tools that solve operational problems.
+
+My interest lies in:
+- Agent orchestration
+- Tool-augmented reasoning
+- Workflow automation
+- API-driven systems
+- Deployment-ready backend services
+
+<hr/>
+
+<div align="center">
+
+## Current Technical Focus
 
 <table>
 <thead>
 <tr>
-<th align="center">Area</th>
-<th align="center">What I'm Exploring</th>
+<th align="center">Domain</th>
+<th align="center">Focus Area</th>
 </tr>
 </thead>
 <tbody>
 
 <tr>
-<td align="center"><b>AI Agents</b></td>
-<td>LLM-powered agents • Workflow automation • Tool-augmented reasoning • Multi-step pipelines</td>
+<td align="center"><b>AI Agents & LLM Systems</b></td>
+<td>Google ADK • LangChain • Structured tool-calling • Prompt pipelines • Multi-step reasoning systems</td>
 </tr>
 
 <tr>
-<td align="center"><b>Automation</b></td>
-<td>n8n orchestration • OpenClaw experimentation • Google ADK • API integrations</td>
+<td align="center"><b>Automation & Orchestration</b></td>
+<td>n8n workflow automation • OpenClaw experimentation • API chaining • Event-driven triggers</td>
 </tr>
 
 <tr>
-<td align="center"><b>Machine Learning</b></td>
-<td>Anomaly detection • Statistical modeling • Feature engineering • Model evaluation</td>
+<td align="center"><b>Backend Engineering</b></td>
+<td>FastAPI • Flask • REST APIs • Service structuring • Dockerized applications</td>
 </tr>
 
 <tr>
-<td align="center"><b>Systems</b></td>
-<td>FastAPI/Flask backends • Dockerized services • PostgreSQL/Supabase • Deployment workflows</td>
+<td align="center"><b>Data & Storage</b></td>
+<td>PostgreSQL • Supabase • MySQL • SQLite • Schema design</td>
 </tr>
 
 </tbody>
@@ -54,31 +72,36 @@
 
 <div align="center">
 
-## Selected Projects & Competitions
+## Selected Projects & Technical Work
 
 </div>
 
-- **Ghost Load Mapper** – ML-based electricity anomaly detection (Isolation Forest + spatial clustering)  
-  → Meralco IDOL Hackathon 2025 – Top Finalist  
+**Ghost Load Mapper**  
+ML-assisted electricity anomaly detection system  
+Isolation Forest + spatial clustering • FastAPI backend  
+→ Meralco IDOL Hackathon 2025 Finalist  
 
-- **AlertoVolt** – IoT voltage risk detection system (Arduino + Flask + React)  
-  → Arduino Day PH 2025 – Top 8 Finalist  
+**AlertoVolt**  
+IoT-based voltage risk detection system  
+Arduino + Flask backend + React dashboard  
+→ Arduino Day PH 2025 Top 8 Finalist  
 
-- **NotionHub (WIP)** – Agentic productivity automation using LLaMA models via Groq  
+**NotionHub (Work in Progress)**  
+Agent-based productivity automation toolkit  
+LLaMA models via Groq • Structured document-to-task conversion  
 
-- **Meta Hacker Cup 2025** – Competitor  
-- **Huawei ICT Academy 2025 (Computing Track)** – Team Competitor  
+**Competitive Experience**
+- Meta Hacker Cup 2025 – Competitor  
+- Huawei ICT Academy 2025 (Computing Track)  
 
 <hr/>
 
 <div align="center">
 
-## AI & Systems Stack
+## Core Stack
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
@@ -87,16 +110,36 @@
 
 </div>
 
-**Core Tools & Platforms**  
-Python • PyTorch • Scikit-Learn • FastAPI • Flask  
-PostgreSQL • Supabase • MySQL • Docker  
-n8n • OpenClaw • Google ADK • REST APIs  
+**AI / Agent Frameworks**
+- Google Agent Development Kit (ADK)
+- LangChain
+- n8n
+- OpenClaw (exploration)
+
+**Engineering**
+- Python
+- FastAPI / Flask
+- Docker
+- RESTful services
+- PostgreSQL / Supabase / MySQL
 
 <hr/>
 
 <div align="center">
 
-## Connect With Me
+## Leadership
+
+</div>
+
+**Notion Campus Leader — National University Manila**  
+Leading student workshops on productivity systems and structured knowledge workflows.  
+Organized campus events focused on digital organization and applied tools.
+
+<hr/>
+
+<div align="center">
+
+## Connect
 
 <a href="https://www.linkedin.com/in/charles-cabatian-9055aa34b/">LinkedIn</a> •
 <a href="mailto:cjcabatian5@gmail.com">Email</a> •
@@ -108,5 +151,5 @@ n8n • OpenClaw • Google ADK • REST APIs
 <hr/>
 
 <p align="center">
-Building systems that combine software engineering + intelligent automation.
+Developing practical AI systems with a focus on structure, clarity, and real-world deployment.
 </p>
