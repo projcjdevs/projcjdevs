@@ -54,12 +54,6 @@
 **NotionHub** (WIP)
 > Agent-based productivity toolkit built with Google ADK. Features Speech-to-Task, document parsing, and structured task generation via LLM pipelines.
 
-**GhostLoad Mapper**
-> Electricity anomaly detection using Isolation Forest and spatial clustering. Backed by FastAPI. *Meralco IDOL Hackathon Finalist.*
-
-**AlertoVolt**
-> IoT voltage instability detection using Arduino and a Flask monitoring backend. *Arduino Day PH Top 8 Finalist.*
-
 **Quickfolio**
 > NFC-powered digital business card platform with customizable templates and tap-to-open profile pages.
 
