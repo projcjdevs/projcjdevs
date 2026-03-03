@@ -1,155 +1,207 @@
-<h1 align="center">Charles Cabatian</h1>
+<h1 align="center">Charles John R. Cabatian</h1>
 
 <p align="center">
-  <b>Notion Campus Leader</b> • BS Computer Science (Machine Learning)<br>
-  National University Manila
+  <b>BS Computer Science (Machine Learning)</b> • National University Manila <br>
+  Notion Campus Leader
 </p>
 
 <p align="center">
-  Focused on building structured, production-oriented AI systems —
-  particularly LLM-powered agents integrated into real-world workflows.
+  I’m a Computer Science student focused on building practical AI systems —
+  particularly LLM-powered agents and automation pipelines that integrate into real-world workflows.
+  My current direction centers around structured agent orchestration, backend services,
+  and deployable AI tooling.
 </p>
 
 <hr/>
 
 <div align="center">
 
-## Professional Direction
+## ⚙️ Technical Direction
 
 </div>
 
-I am currently exploring how **AI agents and LLM systems** can be embedded into practical pipelines —  
-not just as demos, but as usable automation tools that solve operational problems.
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-My interest lies in:
-- Agent orchestration
-- Tool-augmented reasoning
-- Workflow automation
-- API-driven systems
-- Deployment-ready backend services
+### 🤖 AI Agents & LLM Systems
+- Google ADK (Agent Development Kit)
+- LangChain
+- Tool-calling & structured outputs
+- Multi-step reasoning pipelines
+- Groq API integration
+
+### 🔁 Automation & Orchestration
+- n8n workflow systems
+- OpenClaw (exploration)
+- Event-driven architecture
+- API chaining & task routing
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥 Backend Engineering
+- Python
+- FastAPI / Flask
+- REST API design
+- Dockerized services
+
+### 🗄 Infrastructure & Data
+- PostgreSQL
+- MySQL
+- SQLite
+- Google Cloud Platform
+
+</td>
+</tr>
+</table>
 
 <hr/>
 
 <div align="center">
 
-## Current Technical Focus
+## 🏆 Competitions
 
-<table>
+</div>
+
+<table align="center">
 <thead>
 <tr>
-<th align="center">Domain</th>
+<th align="center">Competition</th>
+<th align="center">Year</th>
+<th align="center">Placement</th>
 <th align="center">Focus Area</th>
 </tr>
 </thead>
 <tbody>
 
 <tr>
-<td align="center"><b>AI Agents & LLM Systems</b></td>
-<td>Google ADK • LangChain • Structured tool-calling • Prompt pipelines • Multi-step reasoning systems</td>
+<td align="center">Arduino Day PH Hackathon</td>
+<td align="center">2025</td>
+<td align="center">Top 8 Finalist</td>
+<td align="center">IoT + Risk Detection</td>
 </tr>
 
 <tr>
-<td align="center"><b>Automation & Orchestration</b></td>
-<td>n8n workflow automation • OpenClaw experimentation • API chaining • Event-driven triggers</td>
+<td align="center">Meralco IDOL Hackathon</td>
+<td align="center">2025</td>
+<td align="center">Finalist</td>
+<td align="center">ML Anomaly Detection</td>
 </tr>
 
 <tr>
-<td align="center"><b>Backend Engineering</b></td>
-<td>FastAPI • Flask • REST APIs • Service structuring • Dockerized applications</td>
+<td align="center">Meta Hacker Cup</td>
+<td align="center">2025</td>
+<td align="center">Competitor</td>
+<td align="center">Algorithmic Programming</td>
 </tr>
 
 <tr>
-<td align="center"><b>Data & Storage</b></td>
-<td>PostgreSQL • Supabase • MySQL • SQLite • Schema design</td>
+<td align="center">Huawei ICT Academy (Computing Track)</td>
+<td align="center">2025</td>
+<td align="center">Team Competitor</td>
+<td align="center">openEuler / openGauss</td>
 </tr>
 
 </tbody>
 </table>
 
+<hr/>
+
+<div align="center">
+
+## 🚀 Key Highlight Projects
+
 </div>
+
+### 🧠 NotionHub (WIP)
+Agent-based productivity automation toolkit built with **Google ADK**  
+Includes:
+- Speech-to-Task system  
+- Document-to-Notion parser  
+- Structured task generation via LLM pipelines  
+- Groq-powered model inference  
+
+---
+
+### ⚡ GhostLoad Mapper
+Electricity anomaly detection system  
+Isolation Forest + spatial clustering  
+FastAPI backend • Hackathon Finalist  
+
+---
+
+### 🔌 AlertoVolt
+IoT-powered voltage instability detection system  
+Arduino + Flask backend + monitoring dashboard  
+Arduino Day PH Top 8 Finalist  
+
+---
+
+### 💳 Quickfolio
+NFC-powered digital business card platform  
+Users select customizable templates and deploy personal profile pages  
+Tap-to-open system for real-world networking  
+
+---
+
+### 🛰 AI-Powered Lead Generator
+Automated lead discovery system  
+- Web scraper built using Playwright  
+- Developing social media scraping using LLM-based parsing  
+- Built with Python + n8n + Groq API  
+- Contributed system architecture & backend design  
 
 <hr/>
 
 <div align="center">
 
-## Selected Projects & Technical Work
+## 🛠 Core Stack
 
 </div>
 
-**Ghost Load Mapper**  
-ML-assisted electricity anomaly detection system  
-Isolation Forest + spatial clustering • FastAPI backend  
-→ Meralco IDOL Hackathon 2025 Finalist  
-
-**AlertoVolt**  
-IoT-based voltage risk detection system  
-Arduino + Flask backend + React dashboard  
-→ Arduino Day PH 2025 Top 8 Finalist  
-
-**NotionHub (Work in Progress)**  
-Agent-based productivity automation toolkit  
-LLaMA models via Groq • Structured document-to-task conversion  
-
-**Competitive Experience**
-- Meta Hacker Cup 2025 – Competitor  
-- Huawei ICT Academy 2025 (Computing Track)  
-
-<hr/>
-
-<div align="center">
-
-## Core Stack
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42"/>
 </p>
 
-</div>
-
-**AI / Agent Frameworks**
-- Google Agent Development Kit (ADK)
-- LangChain
-- n8n
-- OpenClaw (exploration)
-
-**Engineering**
-- Python
-- FastAPI / Flask
-- Docker
-- RESTful services
-- PostgreSQL / Supabase / MySQL
+<p align="center">
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" width="42"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="42"/>
+</p>
 
 <hr/>
 
 <div align="center">
 
-## Leadership
+## 🔗 Connect With Me
 
-</div>
+<br>
 
-**Notion Campus Leader — National University Manila**  
-Leading student workshops on productivity systems and structured knowledge workflows.  
-Organized campus events focused on digital organization and applied tools.
+<a href="https://www.linkedin.com/in/charles-cabatian-9055aa34b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<hr/>
+<a href="mailto:cjcabatian5@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-<div align="center">
+<a href="https://www.facebook.com/charles.cabatian.1">
+  <img src="https://img.shields.io/badge/Facebook-Social-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-## Connect
-
-<a href="https://www.linkedin.com/in/charles-cabatian-9055aa34b/">LinkedIn</a> •
-<a href="mailto:cjcabatian5@gmail.com">Email</a> •
-<a href="https://www.facebook.com/charles.cabatian.1">Facebook</a> •
-<a href="https://www.instagram.com/chrlsjhnc">Instagram</a>
+<a href="https://www.instagram.com/chrlsjhnc">
+  <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
 </div>
 
 <hr/>
 
 <p align="center">
-Developing practical AI systems with a focus on structure, clarity, and real-world deployment.
+Building structured AI systems with clarity, practicality, and long-term engineering discipline.
 </p>
